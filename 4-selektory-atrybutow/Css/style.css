@@ -1,0 +1,30 @@
+[title] {
+    background-color: azure;
+}
+
+[title="About me"] {
+    background: darkcyan;
+}
+
+[title~="Container"] {
+    background-color: bisque
+}
+
+[title*="kills"] {
+    background-color: hotpink
+}
+
+[title^="More"] {
+    background-color:blueviolet
+}
+
+[titles$="skills"]{
+    background-color:slateblue
+}
+
+[title]:first-child {
+    background-color: lightgreen
+}
+nav > ul > li > a[title] {
+    background-color:blue
+}
