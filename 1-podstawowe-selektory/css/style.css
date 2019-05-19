@@ -1,0 +1,26 @@
+* {
+    color: lightgray
+}
+
+p { 
+    color: pink
+}
+#kasia {
+    color: black
+}
+
+.lorak{
+    color: blue
+}
+
+li> a {
+    color: green
+}
+
+li#pierwszy + li {
+    background-color: brown
+}
+
+li#pierwszy ~ li {
+    background-color: aqua
+}
