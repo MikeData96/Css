@@ -1,0 +1,30 @@
+#p1 {
+    background-color: gold;
+}
+
+#p2 {
+    border: 2px solid #76E823;
+    background-color: azure;
+}
+
+#inline-elements p {
+    display: inline;
+}
+
+#inline-p2 {
+    background-color: rebeccapurple
+}
+#inline-p2 {
+text-decoration: blue;
+background-color: #00aaaa
+}
+
+#inline-block-elements li {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    background-color: fuchsia
+
+
+}
