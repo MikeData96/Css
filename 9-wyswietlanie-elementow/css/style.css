@@ -24,7 +24,9 @@ background-color: #00aaaa
     width: 100px;
     height: 30px;
     margin: 5px;
-    background-color: fuchsia
+    background-color: fuchsia;
+}
 
-
+#display-none {
+    display: none
 }
