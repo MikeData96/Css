@@ -1,0 +1,27 @@
+#name:hover {
+    background-color: aquamarine;
+}
+
+#name:focus {
+    background-color: beige
+}
+
+.customer:first-child {
+    color: lime
+}
+
+.customer:last-child {
+    color: red
+}
+
+.customer:nth-child(even) {
+    color: blue
+}
+
+.customer:nth-last-child(2) {
+    color: pink
+}
+
+.customer:nth-child(6n + 2) {
+    background-color: coral
+}
